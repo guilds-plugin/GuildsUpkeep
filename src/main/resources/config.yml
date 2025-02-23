@@ -1,0 +1,4 @@
+upkeep:
+  interval: 86400 # in seconds (default 1 day)
+  amount: 1000 # amount to pull each time
+  last_upkeep: 0 # timestamp of the last upkeep
